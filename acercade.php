@@ -27,7 +27,7 @@
             
             <br>
             <h3>Evidencia:</h3>
-            <img src="images/mifoto.jpg" alt="Mi foto en el laboratorio" style="max-width: 400px; border-radius: 10px; border: 2px solid black;">
+            <img src="images/mifoto.jpeg" alt="Mi foto" style="max-width: 400px; border-radius: 10px; border: 2px solid black;">
         </section>
 
         <footer class="pie">
