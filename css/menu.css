@@ -21,9 +21,9 @@ ul li {
 }
 ul li a {
   text-decoration: none;
-  color: #ffffff;
+  color: #ba1871;
 }
 ul li a:hover,
 ul li a.current {
-  color: #000000;
+  color: #ba1871;
 }

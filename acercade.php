@@ -9,7 +9,7 @@
 <body>
     <section class="wrapper">
         <header>
-            <h1 class="logo"><a href="index.php">phpStem</a></h1>
+            <h1 class="logo"><a href="index.php">PhpStem</a></h1>
             <nav>
                 <ul>
                     <li><a href="index.php">Inicio</a></li>
